@@ -24,6 +24,12 @@ body {
     padding: 30px 40px;
 }
 
+hr {height: 2px; 
+    width: 50%;
+    background-color: #ed1d61;
+    border:none
+}
+
 .wrapper h1 {
     font-size: 36px;
     text-align: center;
