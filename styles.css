@@ -25,7 +25,7 @@ body {
 }
 
 .wrapper hr {height: 2px; 
-    width: 50%;
+    width: 100%;
     background-color: #ed1d61;
     border:none
 }
@@ -45,7 +45,7 @@ body {
     width: 100%;
     height: 45px;
     margin: 5px 0;
-    background-color: white;
+    background-color: rgb(110, 9, 105);
     border: none;
     outline: none;
     border-radius: 40px;
@@ -54,7 +54,7 @@ body {
 .recipe-links button,a {
     font-size: 24px;
     text-align: center;
-    color: #c35de8;
+    color: #7b2e97;
     text-decoration: none;
 }
 
