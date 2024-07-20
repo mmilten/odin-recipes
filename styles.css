@@ -24,7 +24,7 @@ body {
     padding: 30px 40px;
 }
 
-hr {height: 2px; 
+.wrapper hr {height: 2px; 
     width: 50%;
     background-color: #ed1d61;
     border:none
@@ -54,7 +54,7 @@ hr {height: 2px;
 .recipe-links button,a {
     font-size: 24px;
     text-align: center;
-    color: black;
+    color: #c35de8;
     text-decoration: none;
 }
 
