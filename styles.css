@@ -59,7 +59,7 @@ body {
 }
 
 .recipe-links button:hover {
-    background-color: aqua;
+    background-color: rgb(153, 104, 160);
     transition: 0.7s;
     text-decoration: underline;
 }
